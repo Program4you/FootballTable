@@ -1,0 +1,4 @@
+﻿  FootballTable.cpp
+c:\users\andrew\dropbox\programming\visualstudio\projects\footballtable\footballtable\footballtable.cpp(198): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  FootballTable.vcxproj -> C:\Users\Andrew\Dropbox\Programming\VisualStudio\Projects\FootballTable\Debug\FootballTable.exe
+  FootballTable.vcxproj -> C:\Users\Andrew\Dropbox\Programming\VisualStudio\Projects\FootballTable\Debug\FootballTable.pdb (Partial PDB)
